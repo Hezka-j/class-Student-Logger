@@ -1,0 +1,4 @@
+﻿  Class Student + class Logger.cpp
+D:\Проекты\Class Student + class Logger\Class Student + class Logger.cpp(640,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты\Class Student + class Logger\Class Student + class Logger.cpp(642,7): warning C4101: d: неиспользованная локальная переменная
+  Class Student + class Logger.vcxproj -> D:\Проекты\Class Student + class Logger\x64\Debug\Class Student + class Logger.exe

@@ -1,0 +1,1 @@
+D:\Проекты\Class Student + class Logger\x64\Debug\Class Student + class Logger.exe
